@@ -1,0 +1,14 @@
+.contactForm {
+    padding: 10px;
+}
+fieldset {
+    border: none;
+	margin-bottom: 10px;
+}
+fieldset input:first-child {
+	margin-right: 10px;
+}
+.remove {
+	font-size: 16px;
+	cursor: pointer;
+}
